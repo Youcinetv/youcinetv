@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youcinetv.github.io/youcinetv/sitemap.xml
